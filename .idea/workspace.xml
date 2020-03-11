@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a38de4-d425-4a0e-9cff-aae43579b15e" name="Default Changelist" comment="" />
+    <list default="true" id="14a38de4-d425-4a0e-9cff-aae43579b15e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraySorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraySorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraySorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraySorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/PriorityQueue.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -39,8 +52,10 @@
   </component>
   <component name="RunManager">
     <configuration name="ArraySorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="ArraySorter" />
-      <module name="PriorityQueue" />
+      <module name="Assignment 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,6 +78,8 @@
       <updated>1583755176385</updated>
       <workItem from="1583755180616" duration="2154000" />
       <workItem from="1583779777839" duration="10176000" />
+      <workItem from="1583824175979" duration="5882000" />
+      <workItem from="1583944825655" duration="7609000" />
     </task>
     <servers />
   </component>
@@ -70,6 +87,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1006" y="369" key="#ArraySorter" timestamp="1583824786916">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1006" y="369" key="#ArraySorter/0.0.2560.1400@0.0.2560.1400" timestamp="1583824786916" />
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583790170235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -78,66 +99,75 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583788511566" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1583791258774">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="1009" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583824653589">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1009" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583824653589" />
+    <state x="1131" y="593" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583824243381">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1131" y="593" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583824243381" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583956208881">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583791258774" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1583791258774">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583956208881" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920032" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583956208881">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583791258774" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1583791258773">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583956208881" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920031" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583956208881">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583791258773" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1583791258774">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583956208881" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920031" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583956208881">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583791258774" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1583791259191">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583956208881" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920031" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1583824920033">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583791259191" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1583791259191">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920033" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1583824920032">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583791259191" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1583791259190">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920032" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1583824920032">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583791259190" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1583791259191">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920032" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1583824920032">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583791259191" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1583790400091">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583824920032" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1583824720677">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583790400091" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583787145317">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="284" y="0" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583824720677" />
+    <state x="988" y="335" key="refactoring.ChangeSignatureDialog" timestamp="1583825911041">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="988" y="335" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583825911041" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1583944919377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583944919377" />
+    <state x="455" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1583955121209">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583787145317" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ArraySorter.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ArraySorter.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ArraySorter.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="455" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583955121209" />
   </component>
 </project>

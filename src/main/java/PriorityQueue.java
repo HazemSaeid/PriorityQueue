@@ -3,7 +3,7 @@ import java.util.Comparator;
 public interface PriorityQueue {
      void enqueue(Comparable item );
      Comparable dequeue();
-     void sortAscending();
-     void sortDescending();
-     void sort(Comparator<Comparable>comparator );
+     boolean sortAscending();
+     boolean sortDescending();
+     void sort(boolean desc);
 }
